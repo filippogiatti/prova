@@ -1,0 +1,10 @@
+#ignora file .log
+*.log
+
+#ignora le directory di build
+build/
+dist/
+
+#ignora file configurazione ide
+.vscode/
+.idea/
